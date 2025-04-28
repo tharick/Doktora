@@ -1,3 +1,7 @@
+# Ubuntu 22.04, Debian 12 işletim sistemleri için önce sırasıyla aşağıdaki komutlar çalıştıırlmalı
+# sudo apt install python3.12-venv
+# pip install gradio tensorflow
+
 
 import gradio as gr
 import tensorflow as tf
